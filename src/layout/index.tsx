@@ -9,7 +9,8 @@ import { useSize, useSizeInit } from '@/hooks/use-size'
 import { useConfigStore } from '@/app/(home)/stores/config-store'
 import { ScrollTopButton } from '@/components/scroll-top-button'
 import MusicCard from '@/components/music-card'
-
+import Live2DViewer
+	{cardStyles.live2d?.enabled !== false && <Live2DViewer />}
 export default function Layout({ children }: PropsWithChildren) {
 	useCenterInit()
 	useSizeInit()
