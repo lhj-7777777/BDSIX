@@ -5,7 +5,7 @@
 		"username": "sixsis"
 	},
 	"theme": {
-		"colorBrand": "#2fcbe7",
+		"colorBrand": "#1FD9AF",
 		"colorPrimary": "#5B423F",
 		"colorSecondary": "#8b7667",
 		"colorBrandSecondary": "#eec25e",
@@ -15,9 +15,12 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#f7da3987",
-		"#8fdbe9",
-		"#fffef8"
+		"#D1DF07",
+		"#1D89E5",
+		"#0781E7",
+		"#5FC3FD",
+		"#16FE27",
+		"#F4C2CB"
 	],
 	"artImages": [
 		{
@@ -45,26 +48,26 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/lhj-7777777",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/220210276?spm_id_from=333.788.0.0",
+			"label": "bilibili",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "langhaojun5@gmail.com",
 			"label": "",
 			"order": 1
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
