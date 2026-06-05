@@ -15,12 +15,10 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#D1DF07",
 		"#1D89E5",
 		"#0781E7",
 		"#5FC3FD",
-		"#16FE27",
-		"#F4C2CB"
+		"#16FE27"
 	],
 	"artImages": [
 		{
