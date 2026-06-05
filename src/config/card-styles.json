@@ -105,4 +105,7 @@
 		"offsetY": null,
 		"enabled": true
 	}
+	"live2d": {
+    "enabled": true
+}
 }
