@@ -1,5 +1,3 @@
-## POETS: Uncertainty-Aware LLM Optimization via Compute-Efficient Policy Ensembles
-
 **论文标题**：POETS: Uncertainty-Aware LLM Optimization via Compute-Efficient Policy Ensembles
 
 **作者**：Nicolas Menet, Andreas Krause, Abbas Rahimi（IBM Research Zurich, ETH Zürich）
