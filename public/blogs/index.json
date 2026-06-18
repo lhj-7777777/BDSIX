@@ -1,5 +1,18 @@
 [
   {
+    "slug": "VG-ON",
+    "title": "(VGON)",
+    "tags": [
+      "论文精读",
+      "AI",
+      "量子计算"
+    ],
+    "date": "2026-06-18T15:13",
+    "summary": "",
+    "hidden": false,
+    "category": "论文精读"
+  },
+  {
     "slug": "AI-rcqs",
     "title": "《Artificial Intelligence for Representing and Characterizing Quantum Systems》",
     "tags": [
