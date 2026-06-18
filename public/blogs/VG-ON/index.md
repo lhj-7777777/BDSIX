@@ -1,8 +1,13 @@
 **论文标题**：Variational optimization for quantum problems using deep generative networks
+
 **模型名称**：VGON (Variational generative optimization network，变分生成优化网络)
+
 **作者**：Lingxia Zhang, Xiaodie Lin, Peidong Wang, Kaiyan Yang, Xiao Zeng, Zhaohui Wei, Zizhu Wang
+
 **期刊**：Communications Physics, (2025) 8:334
+
 **核心定位**：改造变分自编码器VAE架构，构建面向量子变分优化任务的生成式优化器，不用于数据复刻，直接最小化物理目标函数
+
 **关键词**：生成式优化、VAE变体、贫瘠高原、VQE、纠缠检测、简并基态、量子变分问题
 
 ---
