@@ -1,5 +1,18 @@
 [
   {
+    "slug": "POET-S",
+    "title": "POETS",
+    "tags": [
+      "论文精读",
+      "AI",
+      "量子计算"
+    ],
+    "date": "2026-06-18T14:54",
+    "summary": "",
+    "hidden": false,
+    "category": "论文精读"
+  },
+  {
     "slug": "auto-research",
     "title": "利用Autoresearch优化基态制备协议",
     "tags": [
