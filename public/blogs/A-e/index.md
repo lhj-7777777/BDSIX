@@ -2,4 +2,6 @@
 
 标记快捷键    *（小键盘）
 
-分割  Enter + shift 
+分割  Enter + shift + D
+
+预合成  Enter + shift + C
