@@ -6,4 +6,4 @@
 
 预合成  Ctrl + shift + C
 
-新建图层 Ctrl +Y
+新建图层 Ctrl +Y   效果控件➡生成渐变
