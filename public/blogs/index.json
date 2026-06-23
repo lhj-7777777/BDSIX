@@ -2,7 +2,11 @@
   {
     "slug": "algorithm-search",
     "title": "Advanced For-Loop for QML algorithm search",
-    "tags": [],
+    "tags": [
+      "论文精度",
+      "AI",
+      "量子计算"
+    ],
     "date": "2026-06-23T09:12",
     "summary": "",
     "hidden": false,
