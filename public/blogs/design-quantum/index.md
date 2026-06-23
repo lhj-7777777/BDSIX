@@ -1,8 +1,13 @@
 # Meta-designing quantum experiments with language models 
+
 **论文标题**：Meta-designing quantum experiments with language models
+
 **作者**：Sören Arlt, Haonan Duan, Felix Li, Sang Michael Xie, Yuhuai Wu & Mario Krenn
+
 **期刊**：Nature Machine Intelligence, Volume 8, February 2026, Pages 148–157
+
 **核心范式**：量子实验元设计（Meta-design）
+
 **关键词**：大语言模型、量子光学实验、自动实验设计、元解决方案、符号代码生成、可解释AI、量子态制备、外推泛化
 
 ---
