@@ -1,18 +1,5 @@
 [
   {
-    "slug": " Meta-designing",
-    "title": " Meta-designing quantum experiments with language models ",
-    "tags": [
-      "论文精读",
-      "AI",
-      "量子计算"
-    ],
-    "date": "2026-06-23T10:43",
-    "summary": "",
-    "hidden": false,
-    "category": "论文精读"
-  },
-  {
     "slug": "algorithm-search",
     "title": "Advanced For-Loop for QML algorithm search",
     "tags": [
