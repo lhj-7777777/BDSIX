@@ -1,5 +1,18 @@
 [
   {
+    "slug": "Automated-quantum",
+    "title": "Automated quantum software engineering",
+    "tags": [
+      "论文精度",
+      "AI",
+      "量子计算"
+    ],
+    "date": "2026-06-23T09:08",
+    "summary": "",
+    "hidden": false,
+    "category": "论文精读"
+  },
+  {
     "slug": "A-e",
     "title": "仿青空",
     "tags": [],
