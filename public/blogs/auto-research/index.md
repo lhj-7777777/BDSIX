@@ -65,6 +65,7 @@ BH [CAS(2,3), 6 qubits]、LiH [CAS(2,4), 8 qubits]、BeH₂ [CAS(4,4), 8 qubits]
 - 辅助超参：随机种子、热启动预迭代步数
 
 **实验结果（图1）**
+![](/blogs/auto-research/bfa0366d5acfbdf8.png)
 1. 全部四种分子原始能量误差区间 $\Delta E \in [0.1,1.0]\ \text{Ha}$，优化后下降至 $10^{-6}\sim10^{-14}\ \text{Ha}$，精度提升6~13个数量级。
 2. 关键有效突变节点：
     - 迭代15：优化器由COBYLA切换为Powell
