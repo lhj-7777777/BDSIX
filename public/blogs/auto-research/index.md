@@ -91,7 +91,7 @@ BH [CAS(2,3), 6 qubits]、LiH [CAS(2,4), 8 qubits]、BeH₂ [CAS(4,4), 8 qubits]
 - 全局扫描迭代次数：基线6次 → 最优区间19~23次
 
 **实验结果（图2）**
-
+![](/blogs/auto-research/a77cd7995f518e14.png)
 1. 体系基态能量误差由 $\sim10^{-2}$ 降至 $10^{-12}$ 以下；
 2. 互信息误差矩阵 $|I_\text{TN} - I_\text{ref}|$ 由 $\sim10^{-3}$ 下降至 $\sim10^{-7}\sim10^{-9}$；
 3. 最优方案普遍采用两点DMRG或DMRG1→DMRG2两阶段调度策略。
